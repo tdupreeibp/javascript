@@ -1,7 +1,7 @@
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
-
+- Adapted from AirBnB
 
 ## <a name='TOC'>Table of Contents</a>
 
